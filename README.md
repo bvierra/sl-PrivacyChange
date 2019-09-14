@@ -1,4 +1,4 @@
-The old and new StreamLabs TOS in markdown format since they embed it in JSON for i18n support and the wayback machine has issues (read does not display it at all) displaying it.
+The old and new StreamLabs Privacy Policy in markdown format since they embed it in JSON for i18n support and the wayback machine has issues (read does not display it at all) displaying it.
 
 Un-JSONified it, parsed out the actual page text, converted HTML to MD replaces a few variables that were relevant (such as the appName).
 
